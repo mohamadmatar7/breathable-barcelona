@@ -1,0 +1,92 @@
+[
+  {
+    "station_id": "Eixample-01",
+    "latitude": 41.390205,
+    "longitude": 2.154007,
+    "NO2": 39,
+    "PM10": 45,
+    "PM2_5": 11,
+    "timestamp": "2025-05-14T08:00:00"
+  },
+  {
+    "station_id": "Sants-02",
+    "latitude": 41.37515,
+    "longitude": 2.149102,
+    "NO2": 56,
+    "PM10": 23,
+    "PM2_5": 20,
+    "timestamp": "2025-05-14T08:00:00"
+  },
+  {
+    "station_id": "Gracia-03",
+    "latitude": 41.402611,
+    "longitude": 2.156801,
+    "NO2": 55,
+    "PM10": 26,
+    "PM2_5": 17,
+    "timestamp": "2025-05-14T08:00:00"
+  },
+  {
+    "station_id": "CiutatVella-04",
+    "latitude": 41.380896,
+    "longitude": 2.173065,
+    "NO2": 51,
+    "PM10": 37,
+    "PM2_5": 9,
+    "timestamp": "2025-05-14T08:00:00"
+  },
+  {
+    "station_id": "LesCorts-05",
+    "latitude": 41.384843,
+    "longitude": 2.131156,
+    "NO2": 20,
+    "PM10": 23,
+    "PM2_5": 12,
+    "timestamp": "2025-05-14T08:00:00"
+  },
+  {
+    "station_id": "SantMarti-06",
+    "latitude": 41.408547,
+    "longitude": 2.199516,
+    "NO2": 64,
+    "PM10": 35,
+    "PM2_5": 21,
+    "timestamp": "2025-05-14T08:00:00"
+  },
+  {
+    "station_id": "NouBarris-07",
+    "latitude": 41.441192,
+    "longitude": 2.174485,
+    "NO2": 23,
+    "PM10": 11,
+    "PM2_5": 30,
+    "timestamp": "2025-05-14T08:00:00"
+  },
+  {
+    "station_id": "Horta-08",
+    "latitude": 41.429265,
+    "longitude": 2.152466,
+    "NO2": 53,
+    "PM10": 14,
+    "PM2_5": 23,
+    "timestamp": "2025-05-14T08:00:00"
+  },
+  {
+    "station_id": "Sarria-09",
+    "latitude": 41.400809,
+    "longitude": 2.128709,
+    "NO2": 31,
+    "PM10": 43,
+    "PM2_5": 15,
+    "timestamp": "2025-05-14T08:00:00"
+  },
+  {
+    "station_id": "Poblenou-10",
+    "latitude": 41.402518,
+    "longitude": 2.203189,
+    "NO2": 41,
+    "PM10": 24,
+    "PM2_5": 23,
+    "timestamp": "2025-05-14T08:00:00"
+  }
+]
